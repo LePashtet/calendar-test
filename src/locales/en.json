@@ -1,0 +1,10 @@
+{
+  "title": "Timetable",
+  "types": {
+    "day": "Day",
+    "week": "Week",
+    "month": "Month"
+  },
+  "months": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+  "week": ["Mon,", "Tue,", "Wed,", "Thu,", "Fri,", "Sat,", "Sun,"]
+}
